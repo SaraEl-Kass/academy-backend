@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "m8nYmMLSxOo5qzIPoAvNIesmxMptt9GwLjctJPHK3Xk=",
+  "Source": "MyWebApi1",
+  "BasePath": "_content/MyWebApi1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyWebApi1/wwwroot",
+      "Source": "MyWebApi1",
+      "ContentRoot": "/Users/sarahelkass/MyWebApiProject1/MyWebApi1/wwwroot/",
+      "BasePath": "_content/MyWebApi1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
